@@ -1,0 +1,33 @@
+First Scenario:
+Request a number from the user
+Ask the user to enter a positive number repeatedly
+Have a variable to store the largest positive number
+Ask them to do so repeatedly, 
+Until zero is entered by the user 
+Once zero has been entered by the user, output the largest number
+
+Second Scenario:
+Request the user to input their name
+Store name that was inputted in a variable called 'first_name' 
+Print out 'first_name' along the phrase "Hello, World"
+
+Third Scenario:
+Request the user to enter random numbers
+Once entered, store the sum in a variable
+Once all numbers are entered, calculate the average
+Once average has been calculated, return the average.
+
+Fourth Scenario:
+Request the user to enter items from the grocery list
+Store items entered in a variable
+Sort the items in alphabetical order
+Once sorted alphabetically, print the list of items
+
+Fifth Scenario - Flowchart:
+Start
+Ask the User for two numbers: X and Y
+Once X and Y is given, add them together and call it S
+Once S is given, divide by 2, call it A 
+Multiply X and Y, call it P 
+Write out total values for S, A, and P 
+Stop
