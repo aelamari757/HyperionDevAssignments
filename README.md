@@ -23,6 +23,13 @@ abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 replace.py
 The quick brown fox jumps over the lazy dog.
 THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
 abdullahelamari@Abdullahs-MacBook-Air Desktop % 
+bdullahelamari@Abdullahs-MacBook-Air Desktop % python3 replace.py 
+# Forgot to include the part where sentence has to be reverse in file submission
+The quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+.god yzal eht revo spmuj xof nworb kciuq ehT
+abdullahelamari@Abdullahs-MacBook-Air Desktop 
+
 # Second Assignment manipulation.py (Watched String indexing in Python is easy by Bro Code on YouTube to get a better understanding)
 abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 manipulation.py
 Enter a sentence: The Temptations vs The Stylystics
