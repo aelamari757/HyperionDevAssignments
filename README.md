@@ -31,3 +31,14 @@ Altered sentence: The Temptation@ v@ The Styly@tic@
 Last 3 letters backwards: sci
 New word made from first 3 and last 2 letters: Thecs
 abdullahelamari@Abdullahs-MacBook-Air Desktop %       
+
+# Third Assignment integermath.py output
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 integermath.py
+Enter the first integer: 10
+Enter the second integer: 15
+Enter the third integer: 20
+The sum of all the numbers is: 45
+The first number minus the second number is: -5
+The third number multiplied by the first number is: 200
+The sum of all three numbers divided by the third number is: 2.25
+abdullahelamari@Abdullahs-MacBook-Air Desktop % 
