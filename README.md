@@ -23,3 +23,11 @@ abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 replace.py
 The quick brown fox jumps over the lazy dog.
 THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
 abdullahelamari@Abdullahs-MacBook-Air Desktop % 
+# Second Assignment manipulation.py (Watched String indexing in Python is easy by Bro Code on YouTube to get a better understanding)
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 manipulation.py
+Enter a sentence: The Temptations vs The Stylystics
+The length of the sentence is: 33
+Altered sentence: The Temptation@ v@ The Styly@tic@
+Last 3 letters backwards: sci
+New word made from first 3 and last 2 letters: Thecs
+abdullahelamari@Abdullahs-MacBook-Air Desktop %       
