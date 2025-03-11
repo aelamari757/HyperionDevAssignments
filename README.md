@@ -16,3 +16,10 @@ abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 conversion.py
 23.0
 150
 100
+
+# Task 4 - The String and Numerical Data Types 
+# First Assignment replace.py output example 
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 replace.py 
+The quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+abdullahelamari@Abdullahs-MacBook-Air Desktop % 
