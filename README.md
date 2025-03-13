@@ -73,3 +73,30 @@ abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 age-quiz.py
 How old are you? 33
 Age is but a number.
 abdullahelamari@Abdullahs-MacBook-Air Desktop % 
+
+# Task 6 - Logical Programming – Operators Output - Watched Python for Everybody (Relevant section) by Dr.Chuck to Learn More
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 award.py
+Enter swimming time in minutes: 50
+Enter cycling time in minutes: 20
+Enter running time in minutes: 20
+Total time for triathlon:  90 minutes
+Award: Provincial colors
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 award.py
+Enter swimming time in minutes: 60
+Enter cycling time in minutes: 40
+Enter running time in minutes: 4
+Total time for triathlon:  104 minutes
+Award: Provincial half colors
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 award.py
+Enter swimming time in minutes: 50
+Enter cycling time in minutes: 50
+Enter running time in minutes: 8
+Total time for triathlon:  108 minutes
+Award: Provincial scroll
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 award.py
+Enter swimming time in minutes: 100
+Enter cycling time in minutes: 5
+Enter running time in minutes: 15
+Total time for triathlon:  120 minutes
+Award: No award
+abdullahelamari@Abdullahs-MacBook-Air Desktop % 
