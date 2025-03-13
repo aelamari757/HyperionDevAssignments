@@ -49,3 +49,27 @@ The first number minus the second number is: -5
 The third number multiplied by the first number is: 200
 The sum of all three numbers divided by the third number is: 2.25
 abdullahelamari@Abdullahs-MacBook-Air Desktop % 
+
+# Task 5 - Control Structures – If, Elif, Else and the Boolean Data Type Output - Watched Python for Everybody (Relevant section) by Dr.Chuck to Learn More
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 age-quiz.py
+How old are you? 29
+Age is but a number.
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 age-quiz.py  
+How old are you? 101
+Sorry, you're dead.
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 age-quiz.py
+How old are you? 66
+Enjoy your retirement!
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 age-quiz.py
+How old are you? 42
+You're over the hill.
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 age-quiz.py
+How old are you? 21
+Congrats on your 21st!
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 age-quiz.py
+How old are you? 11
+You qualify for the kiddie discount.
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 age-quiz.py
+How old are you? 33
+Age is but a number.
+abdullahelamari@Abdullahs-MacBook-Air Desktop % 
