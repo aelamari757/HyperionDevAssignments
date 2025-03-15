@@ -100,3 +100,54 @@ Enter running time in minutes: 15
 Total time for triathlon:  120 minutes
 Award: No award
 abdullahelamari@Abdullahs-MacBook-Air Desktop % 
+
+#  	Task 7 - Capstone Project – Variables and Control Structures Outputs
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 Finance_calculators.py
+Investment: calculates the amount of interest you'll earn on your investment. 
+Bond: calculates the amount you'll have to pay on a home loan. 
+In order to proceed, please enter either 'Investment' or 'Bond' from the menu above Free 
+Error: Invalid option. Please enter either 'Investment' or 'Bond'.
+abdullahelamari@Abdullahs-MacBook-Air Desktop % 
+
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 Finance_calculators.py
+Investment: calculates the amount of interest you'll earn on your investment. 
+Bond: calculates the amount you'll have to pay on a home loan. 
+In order to proceed, please enter either 'Investment' or 'Bond' from the menu above bond
+You have selected: bond
+Enter the present value of the house: 200000
+Enter the annual interest rate: 20
+Enter the number of months you plan to repay the bond: 36
+Your monthly repayment is: $7432.72
+
+Investment: calculates the amount of interest you'll earn on your investment. 
+Bond: calculates the amount you'll have to pay on a home loan. 
+In order to proceed, please enter either 'Investment' or 'Bond' from the menu above investment
+You have selected: investment
+Enter amount that is being deposited: 300000
+Enter the interest rate (e.g., 30% for 30%): 30
+Enter the number of years you plan to invest: 5
+Would you like simple or compound interest? compound
+The total amount after 5 years with compound interest is: $1113879.00
+abdullahelamari@Abdullahs-MacBook-Air Desktop % 
+
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 Finance_calculators.py
+Investment: calculates the amount of interest you'll earn on your investment. 
+Bond: calculates the amount you'll have to pay on a home loan. 
+In order to proceed, please enter either 'Investment' or 'Bond' from the menu above investment
+You have selected: investment
+Enter amount that is being deposited: 200000
+Enter the interest rate (e.g., 30% for 30%): 25
+Enter the number of years you plan to invest: 4
+Would you like simple or compound interest? simple
+The total amount after 4 years with simple interest is: $400000.00
+
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 Finance_calculators.py
+Investment: calculates the amount of interest you'll earn on your investment. 
+Bond: calculates the amount you'll have to pay on a home loan. 
+In order to proceed, please enter either 'Investment' or 'Bond' from the menu above investment
+You have selected: investment
+Enter amount that is being deposited: 250000
+Enter the interest rate (e.g., 30% for 30%): 25
+Enter the number of years you plan to invest: 5
+Would you like simple or compound interest? free
+Invalid interest type. Please choose either 'simple' or 'compound'.
