@@ -151,3 +151,14 @@ Enter the interest rate (e.g., 30% for 30%): 25
 Enter the number of years you plan to invest: 5
 Would you like simple or compound interest? free
 Invalid interest type. Please choose either 'simple' or 'compound'.
+
+# Task 8 - Data Structures – The List Output:
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 list_types.py
+Peter
+Joni
+3
+[31, 29, 33]
+Peter is 31 years old.
+Barry is 29 years old.
+Joni is 33 years old.
+abdullahelamari@Abdullahs-MacBook-Air Desktop % 
