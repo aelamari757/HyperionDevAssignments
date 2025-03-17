@@ -162,3 +162,17 @@ Peter is 31 years old.
 Barry is 29 years old.
 Joni is 33 years old.
 abdullahelamari@Abdullahs-MacBook-Air Desktop % 
+
+#  	Task 9 - Iteration (Task 1 output)
+abdullahelamari@Abdullahs-MacBook-Air Desktop % python3 while.py
+Please enter a number: 33
+Please enter a number: 31
+Please enter a number: 56
+Please enter a number: 11
+Please enter a number: 12
+Please enter a number: 1
+Please enter a number: -9
+Negative numbers entered, not valid. Please enter only positive numbers
+Please enter a number: -1
+The average is: 19.285714285714285
+abdullahelamari@Abdullahs-MacBook-Air Desktop % 
